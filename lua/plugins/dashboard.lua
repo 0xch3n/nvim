@@ -23,7 +23,7 @@ return {
 				{
 					icon = "  ",
 					desc = "New",
-					action = "",
+					action = "enew",
 					key = "N",
 				},
 				{
@@ -57,7 +57,7 @@ return {
 					key = "Q",
 				},
 			},
-			footer = { "Where my friday !!! 😭😭😭" },
+			footer = { "Where's my friday !!! 😭😭😭" },
 			vertical_center = true,
 		},
 	},
